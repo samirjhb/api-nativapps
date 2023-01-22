@@ -80,7 +80,11 @@ contraseña: admin
 ```bash
  # La API se debe ejecutar el comando en la ruta API-CLINICA
 
-$ docker-compose up
+$ docker-compose up -d
+
+# Para rectificar que las imagenes esten en run
+
+$ docker-compose ps
 
 Existen 3 imagenes en el docker compose los cuales son 
 
