@@ -79,7 +79,7 @@ contraseña: admin
 
 
 <p align="center">
-  <a target="blank"><img src="../api-nativapps/diagrama.svg" width="820" alt="Nest Logo" /></a>
+  <a target="blank"><img src="diagrama.svg" width="620" alt="Nest Logo" /></a>
 </p>
 
 
