@@ -75,6 +75,14 @@ User:admin@admin.com
 contraseña: admin
 
 ```
+## Diagrama  de  Despligue
+
+
+<p align="center">
+  <a target="blank"><img src="../api-nativapps/diagrama.svg" width="820" alt="Nest Logo" /></a>
+</p>
+
+
 ## Run Mediante Docker 🐳
 
 ```bash
