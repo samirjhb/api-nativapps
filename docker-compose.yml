@@ -21,11 +21,11 @@ services:
     ports:
       - "5432:5432"
     environment:
-      # - DATABASE_HOST=127.0.0.1
-      # - POSTGRES_USER=root
-      # - POSTGRES_PASSWORD=root
-      # - POSTGRES_DB=DB_Clinica
-      - .env
+      - DATABASE_HOST=127.0.0.1
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=DB_Clinica
+      # - .env
     volumes:
       - ./database:/var/lib/postgresql/data
 
